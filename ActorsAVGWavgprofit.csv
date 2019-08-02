@@ -1,0 +1,501 @@
+actor,nummovies,Wavgprofit,GenreName
+"Mel Gibson",6,5059762.06589427,Comedy
+"Queen Latifah",6,2656453.093671244,Comedy
+"Adam Sandler",8,2355824.76772635,Comedy
+"Viggo Mortensen",4,2195223.819057772,Comedy
+"Jack Black",6,1923105.228952544,Comedy
+"Gabrielle Union",6,1849379.8300554361,Comedy
+"Katherine Heigl",4,1798123.3703134218,Comedy
+"Maya Rudolph",4,1704083.0132561459,Comedy
+"Robert De Niro",6,1691615.3237506321,Comedy
+"Kristen Wiig",4,1685778.206807516,Comedy
+"Mike Myers",4,1472534.770503168,Comedy
+"Regina Hall",6,1469801.6842041542,Comedy
+"Ben Stiller",6,1459965.3078349922,Comedy
+"Bob Hoskins",4,1451208.94728822,Comedy
+"Terry Crews",4,1364235.2118175218,Comedy
+"Diane Keaton",6,1330729.5224122622,Comedy
+"Martin Lawrence",4,1265508.7241018019,Comedy
+"Christine Taylor",4,1180433.59729159,Comedy
+"Penelope Ann Miller",4,1159428.715196306,Comedy
+"Emma Roberts",6,1131902.71146134,Comedy
+"Linda Kozlowski",2,1105201.927882236,Comedy
+"John Meillon",2,1105201.927882236,Comedy
+"David Gulpilil",2,1105201.927882236,Comedy
+"Paul Hogan",2,1105201.927882236,Comedy
+"Burt Reynolds",4,1098685.909338788,Comedy
+"Vince Vaughn",4,1072788.1976597079,Comedy
+"Helen Hunt",2,1069567.401235338,Comedy
+"Marisa Tomei",2,1069567.401235338,Comedy
+"Alan Alda",2,1069567.401235338,Comedy
+"Sebastian Maniscalco",2,1038005.32943808,Comedy
+"Mahershala Ali",2,1038005.32943808,Comedy
+"Linda Cardellini",2,1038005.32943808,Comedy
+"Steve Martin",4,993992.8413642739,Comedy
+"Billy Crystal",4,981871.21029181,Comedy
+"Lisa Kudrow",4,981871.21029181,Comedy
+"Tom Yi",2,889729.768776738,Comedy
+"Renée Zellweger",2,887636.811274548,Comedy
+"Gemma Jones",2,887636.811274548,Comedy
+"Celia Imrie",2,887636.811274548,Comedy
+"James Faulkner",2,887636.811274548,Comedy
+"Don Cheadle",6,854089.8515186381,Comedy
+"Kate Winslet",4,832605.395881414,Comedy
+"Zachary Gordon",4,814183.28149507,Comedy
+"Robert Capron",4,814183.28149507,Comedy
+"Rachael Harris",4,814183.28149507,Comedy
+"Winona Ryder",4,808347.3448117679,Comedy
+"Dustin Hoffman",2,798805.243673538,Comedy
+"Robin Williams",2,798805.243673538,Comedy
+"Julia Roberts",2,798805.243673538,Comedy
+"Chauncey Leopardi",2,786504.8238,Comedy
+"Spencer Vrooman",2,786504.8238,Comedy
+"Malachi Pearson",2,786504.8238,Comedy
+"Cathy Moriarty",2,786504.8238,Comedy
+"Chris Rock",4,779531.1422997799,Comedy
+"Ellen Page",2,776643.589641012,Comedy
+"Michael Cera",2,776643.589641012,Comedy
+"Jennifer Garner",2,776643.589641012,Comedy
+"Jason Bateman",2,776643.589641012,Comedy
+"Brendan Fraser",6,747014.2442391161,Comedy
+"Regina King",4,745672.075628476,Comedy
+"Giancarlo Esposito",8,728528.03168616,Comedy
+"Reese Witherspoon",4,675671.721236534,Comedy
+"Seth Rogen",4,649961.282880708,Comedy
+"Phil Daniels",2,642885.2194464899,Comedy
+"Lynn Ferguson",2,642885.2194464899,Comedy
+"Tony Haygarth",2,642885.2194464899,Comedy
+"Arnold Schwarzenegger",2,608996.2559999999,Comedy
+"Pamela Reed",2,608996.2559999999,Comedy
+"Linda Hunt",2,608996.2559999999,Comedy
+"Gerard Butler",2,578888.681794842,Comedy
+"Bree Turner",2,578888.681794842,Comedy
+"Eric Winter",2,578888.681794842,Comedy
+"Dana Carvey",2,564350.335628538,Comedy
+"Rob Lowe",2,564350.335628538,Comedy
+"Tia Carrere",2,564350.335628538,Comedy
+"Melissa McCarthy",4,540899.848897388,Comedy
+"Chazz Palminteri",2,508254.635125548,Comedy
+"Joan Plowright",2,500606.694052812,Comedy
+"Eugene Levy",2,500606.694052812,Comedy
+"Will Smith",2,495750.571748292,Comedy
+"Jordi Mollà",2,495750.571748292,Comedy
+"James Franco",4,489001.67815257,Comedy
+"Jasmine Woods",2,488074.710273342,Comedy
+"Morgan Lily",2,488074.710273342,Comedy
+"Trenton Rogers",2,488074.710273342,Comedy
+"Michelle Carmichael",2,488074.710273342,Comedy
+"Kimberly Elise",4,487556.052110868,Comedy
+"Jeff Goldblum",2,486850.9842,Comedy
+"Elizabeth Perkins",2,486850.9842,Comedy
+"Alexander Pollock",2,486850.9842,Comedy
+"Miriam Margolyes",2,486850.9842,Comedy
+"Rip Torn",2,476787.680931024,Comedy
+"Bruce Willis",4,458243.870447914,Comedy
+"Jack Nicholson",2,449160.50003367,Comedy
+"Morgan Freeman",2,449160.50003367,Comedy
+"Sean Hayes",2,449160.50003367,Comedy
+"Beverly Todd",2,449160.50003367,Comedy
+"Jennifer Love Hewitt",4,444176.0459483,Comedy
+"John Turturro",2,419617.57262421,Comedy
+"Allen Covert",2,419617.57262421,Comedy
+"Cameron Diaz",2,415883.280246744,Comedy
+"Jude Law",2,415883.280246744,Comedy
+"Sandra Bullock",4,414297.48376275797,Comedy
+"Cleavon Little",2,404498.08139999997,Comedy
+"Gene Wilder",2,404498.08139999997,Comedy
+"Slim Pickens",2,404498.08139999997,Comedy
+"Harvey Korman",2,404498.08139999997,Comedy
+"Jada Pinkett Smith",2,390610.035968718,Comedy
+"Tiffany Haddish",2,390610.035968718,Comedy
+"Catherine O'Hara",4,383220.596529804,Comedy
+Nelly,2,379094.99635203,Comedy
+"Matthew Perry",4,360541.403312188,Comedy
+"Kevin Hart",4,353196.498037842,Comedy
+"Chevy Chase",4,348239.77227158396,Comedy
+"Jennifer Coolidge",2,347193.914332128,Comedy
+"Sally Field",2,347193.914332128,Comedy
+"Suzanne Bianqui",2,332834.104414806,Comedy
+"Antony Acker",2,332834.104414806,Comedy
+"Mark Barrett",2,332834.104414806,Comedy
+"Richard Bellos",2,332834.104414806,Comedy
+"Jay Baruchel",2,327124.819878102,Comedy
+"Jonah Hill",2,327124.819878102,Comedy
+"Will Arnett",2,320172.743532996,Comedy
+"Liam Neeson",2,320172.743532996,Comedy
+"Tom Everett Scott",4,305525.27464173996,Comedy
+"Jake T. Austin",2,302273.810697432,Comedy
+"Johnny Simmons",2,302273.810697432,Comedy
+"Anne Hathaway",2,294638.008027344,Comedy
+"Bryan Greenberg",2,294638.008027344,Comedy
+"Chris Pratt",2,294638.008027344,Comedy
+"Kate Hudson",2,294638.008027344,Comedy
+"Jane Fonda",2,281349.554012154,Comedy
+"Candice Bergen",2,281349.554012154,Comedy
+"Mary Steenburgen",2,281349.554012154,Comedy
+"Olivia Colman",2,273616.460729964,Comedy
+"Rachel Weisz",2,273616.460729964,Comedy
+"Emma Delves",2,273616.460729964,Comedy
+"Faye Daveney",2,273616.460729964,Comedy
+"Susan Sarandon",2,264386.22627693,Comedy
+"Kathy Bates",2,264386.22627693,Comedy
+"Allison Janney",2,264386.22627693,Comedy
+"Jim Cummings",2,263486.686903728,Comedy
+"Nikita Hopkins",2,263486.686903728,Comedy
+"Ken Sansom",2,263486.686903728,Comedy
+"John Fiedler",2,263486.686903728,Comedy
+"Gustavo Escobar",2,248221.988134728,Comedy
+"Mark Wahlberg",2,248221.988134728,Comedy
+"Rose Byrne",2,248221.988134728,Comedy
+"Isabela Moner",2,248221.988134728,Comedy
+"Ana de la Reguera",2,232859.621591172,Comedy
+"Héctor Jiménez",2,232859.621591172,Comedy
+"Darius Rose",2,232859.621591172,Comedy
+"Ryan Whitney Newman",2,229298.75127822,Comedy
+"Steve Buscemi",2,229298.75127822,Comedy
+"Mitchel Musso",2,229298.75127822,Comedy
+"Sophie Monk",2,225419.15100999,Comedy
+"Eddie Griffin",2,225419.15100999,Comedy
+"Alyson Hannigan",2,225419.15100999,Comedy
+"Adam Campbell",2,225419.15100999,Comedy
+"Mike Epps",4,219542.570137498,Comedy
+"Steve Zahn",2,214374.678648066,Comedy
+"Rosanna Arquette",2,212899.094560602,Comedy
+"Michael Clarke Duncan",2,212899.094560602,Comedy
+"Kevin Smith",2,211404.808059708,Comedy
+"Chris Evans",2,211404.808059708,Comedy
+"Sarah Michelle Gellar",2,211404.808059708,Comedy
+Mako,2,211404.808059708,Comedy
+"Lennie Loftin",4,203964.053863754,Comedy
+"Woody Allen",4,195703.813111284,Comedy
+"Devon Bostick",2,192716.844449964,Comedy
+"Suraj Sharma",2,190960.198209738,Comedy
+"Jessica Rothe",2,190960.198209738,Comedy
+"Israel Broussard",2,190960.198209738,Comedy
+"Phi Vu",2,190960.198209738,Comedy
+"Amanda Seyfried",2,180444.684078828,Comedy
+"Marcia DeBonis",2,180444.684078828,Comedy
+"Gael García Bernal",2,180444.684078828,Comedy
+"Giordano Formenti",2,180444.684078828,Comedy
+"Harry Connick Jr.",2,178300.954974,Comedy
+"Gena Rowlands",2,178300.954974,Comedy
+"Mae Whitman",2,178300.954974,Comedy
+"Taraji P. Henson",2,172705.466232018,Comedy
+"Kristen Ledlow",2,172705.466232018,Comedy
+"Josh Brener",2,172705.466232018,Comedy
+"Kellan Lutz",2,172705.466232018,Comedy
+"Mimi Rogers",2,171916.836841734,Comedy
+"Elizabeth Hurley",2,171916.836841734,Comedy
+"Michael York",2,171916.836841734,Comedy
+"Chris Elliott",2,171117.314722962,Comedy
+"Mark Webber",2,171117.314722962,Comedy
+"Jean Smart",2,171117.314722962,Comedy
+"Schuyler Fisk",2,171117.314722962,Comedy
+"America Ferrera",4,170800.502640278,Comedy
+"Dolly Parton",2,170247.799557222,Comedy
+"Dom DeLuise",2,170247.799557222,Comedy
+"Charles Durning",4,167057.312991404,Comedy
+"Michael J. Fox",2,159169.476,Comedy
+"Geena Davis",2,159169.476,Comedy
+"Hugh Laurie",2,159169.476,Comedy
+"Jonathan Lipnicki",2,159169.476,Comedy
+"Steve Harris",2,155565.173181336,Comedy
+"Tyler Perry",2,155565.173181336,Comedy
+"Shemar Moore",2,155565.173181336,Comedy
+"Jason Isaacs",2,153735.65500275,Comedy
+"Debi Mazar",2,153735.65500275,Comedy
+"Jackie Chan",2,153735.65500275,Comedy
+"Alden Ehrenreich",2,145884.63790008,Comedy
+"Ralph Fiennes",2,145884.63790008,Comedy
+"Josh Brolin",2,145884.63790008,Comedy
+"George Clooney",2,145884.63790008,Comedy
+"Robert Carradine",2,140257.56439773,Comedy
+"Hilary Duff",2,140257.56439773,Comedy
+"Adam Lamberg",2,140257.56439773,Comedy
+"Hallie Todd",2,140257.56439773,Comedy
+"Alex O'Loughlin",2,139381.177262874,Comedy
+"Michaela Watkins",2,139381.177262874,Comedy
+"Eric Christian Olsen",2,139381.177262874,Comedy
+"Jennifer Lopez",2,139381.177262874,Comedy
+"John C. McGinley",2,137003.607436566,Comedy
+"Michael Ealy",2,129570.38944715999,Comedy
+"Joy Bryant",2,129570.38944715999,Comedy
+"Bud Cort",2,117470.06636619,Comedy
+"Barret Hackney",2,117470.06636619,Comedy
+"Jared Pfennigwerth",2,117470.06636619,Comedy
+"Kitao Sakurai",2,117470.06636619,Comedy
+"Rodney Dangerfield",2,117115.322586864,Comedy
+"Ted Knight",2,117115.322586864,Comedy
+"Michael O'Keefe",2,117115.322586864,Comedy
+"Owen Wilson",2,113428.94714208599,Comedy
+"Will Ferrell",2,113428.94714208599,Comedy
+"Mandy Moore",2,105670.653179598,Comedy
+"Gabriel Macht",2,105670.653179598,Comedy
+"Spike Lee",4,90764.703657828,Comedy
+"Danny Glover",2,88212.78242223599,Comedy
+Mo'Nique,2,88212.78242223599,Comedy
+"Anna Rust",2,87541.959205428,Comedy
+"Jeremy Robson",2,87541.959205428,Comedy
+"Petr Ratimec",2,87541.959205428,Comedy
+"Barbora Lukesová",2,87541.959205428,Comedy
+"Anthony Anderson",4,83699.17549666199,Comedy
+"Ice Cube",2,81407.69562801,Comedy
+"John Witherspoon",2,81407.69562801,Comedy
+"Don 'D.C.' Curry",2,81407.69562801,Comedy
+"Michelle Pfeiffer",2,72936.094039446,Comedy
+"Dianna Agron",2,72936.094039446,Comedy
+"John D'Leo",2,72936.094039446,Comedy
+"Ray Liotta",2,68352.30378795,Comedy
+"Jason Lee",2,68352.30378795,Comedy
+"Sigourney Weaver",2,68352.30378795,Comedy
+"Selena Gomez",2,68120.276214414,Comedy
+"Katie Cassidy",2,68120.276214414,Comedy
+"Leighton Meester",2,68120.276214414,Comedy
+"Cory Monteith",2,68120.276214414,Comedy
+"Vanessa Williams",2,66736.159212354,Comedy
+Solange,2,66736.159212354,Comedy
+"Shad Moss",2,66736.159212354,Comedy
+"Kathleen Turner",4,62510.88858955,Comedy
+"Michael Caine",2,61946.566288596,Comedy
+"Robert Duvall",2,61946.566288596,Comedy
+"Haley Joel Osment",2,61946.566288596,Comedy
+"Kyra Sedgwick",2,61946.566288596,Comedy
+"Jessica St. Clair",2,60973.843558494,Comedy
+"Christopher Nicholas Smith",2,60973.843558494,Comedy
+"Julia Louis-Dreyfus",2,60973.843558494,Comedy
+"Amber Tamblyn",2,59758.210906986,Comedy
+"Alexis Bledel",2,59758.210906986,Comedy
+"Blake Lively",2,59758.210906986,Comedy
+"Anne Heche",2,59606.262880908,Comedy
+"Julianne Moore",2,59606.262880908,Comedy
+"Patti D'Arbanville",2,57004.513228272,Comedy
+"Dabney Coleman",2,57004.513228272,Comedy
+"Mary Kay Place",2,57004.513228272,Comedy
+"John Beck",2,56556.129354174,Comedy
+"Mary Gregory",2,56556.129354174,Comedy
+"Cedric the Entertainer",4,51361.810978162,Comedy
+"Carter Jenkins",2,50350.436744298,Comedy
+"Austin Butler",2,50350.436744298,Comedy
+"Ashley Tisdale",2,50350.436744298,Comedy
+"Ashley Boettcher",2,50350.436744298,Comedy
+"Christopher Lloyd",2,48967.07060694,Comedy
+"Kim Cattrall",2,48967.07060694,Comedy
+"Peter MacNicol",2,48967.07060694,Comedy
+"Peter Berg",2,48844.624297218,Comedy
+"Chris Kattan",2,48844.624297218,Comedy
+"Vinessa Shaw",2,48844.624297218,Comedy
+"Peter Falk",2,48844.624297218,Comedy
+"Jason Drucker",2,47091.939992862,Comedy
+"Charlie Wright",2,47091.939992862,Comedy
+"Halle Berry",2,47027.808534858,Comedy
+"Ed Helms",2,47027.808534858,Comedy
+"Carolyn Saxon",2,41295.748922262,Comedy
+"Tracey Ullman",2,41295.748922262,Comedy
+"Michael Rapaport",2,41295.748922262,Comedy
+"Robert Ben Garant",2,41008.153900572,Comedy
+"Niecy Nash",2,41008.153900572,Comedy
+"Dylan Baker",4,40347.522270252,Comedy
+"Freddie Prinze Jr.",2,38184.44587386,Comedy
+"Julia Stiles",2,38184.44587386,Comedy
+"Selma Blair",2,38184.44587386,Comedy
+"Shawn Hatosy",2,38184.44587386,Comedy
+JoJo,2,37989.439044318,Comedy
+"Sara Paxton",2,37989.439044318,Comedy
+"Jake McDorman",2,37989.439044318,Comedy
+"Craig Gellis",2,37037.50869207,Comedy
+"Rich Cooper",2,37037.50869207,Comedy
+"Max Thieriot",2,37037.50869207,Comedy
+"Alicia Silverstone",4,36146.685643558,Comedy
+"Jordan Carlos",2,34457.520274968,Comedy
+"Dequina Moore",2,34457.520274968,Comedy
+"Joseph Badalucco Jr.",2,34457.520274968,Comedy
+"Greg Kinnear",2,34457.520274968,Comedy
+"Vivica A. Fox",2,32496.351638699998,Comedy
+"Morris Chestnut",2,32496.351638699998,Comedy
+"Levi Stubbs",2,30267.75406131,Comedy
+"Rick Moranis",2,30267.75406131,Comedy
+"Ellen Greene",2,30267.75406131,Comedy
+"Vincent Gardenia",2,30267.75406131,Comedy
+"Tisha Campbell-Martin",2,29570.380683864,Comedy
+Kyme,2,29570.380683864,Comedy
+"Laurence Fishburne",2,29570.380683864,Comedy
+"Nicole Kidman",2,28847.727041382,Comedy
+"Stockard Channing",2,28847.727041382,Comedy
+"Dianne Wiest",2,28847.727041382,Comedy
+"Bresha Webb",2,28363.557716832,Comedy
+"Gary Owen",2,28363.557716832,Comedy
+"Zulay Henao",2,28363.557716832,Comedy
+"Miles Thompson",2,26351.074225584,Comedy
+"Brandon Ratcliff",2,26351.074225584,Comedy
+"John Hawkes",2,26351.074225584,Comedy
+"Miranda July",2,26351.074225584,Comedy
+"Carlos Mencia",2,25642.015732476,Comedy
+"Forest Whitaker",2,25642.015732476,Comedy
+"Tracy Camilla Johns",2,24091.691195412,Comedy
+"Tommy Redmond Hicks",2,24091.691195412,Comedy
+"John Canada Terrell",2,24091.691195412,Comedy
+"Scott Terra",2,23302.708864116,Comedy
+"David Spade",2,23302.708864116,Comedy
+"Mary McCormack",2,23302.708864116,Comedy
+"Craig Bierko",2,23302.708864116,Comedy
+"Denzel Washington",2,21290.647517999998,Comedy
+"Wesley Snipes",2,21290.647517999998,Comedy
+"Spencer Breslin",2,16222.774447104,Comedy
+"Emily Mortimer",2,16222.774447104,Comedy
+"Lily Tomlin",2,16222.774447104,Comedy
+"Adam Boyer",2,14431.007115978,Comedy
+"Greg Andrews",2,14431.007115978,Comedy
+Monica,2,14431.007115978,Comedy
+"Brandon Bernard Benton",2,14431.007115978,Comedy
+"Robert Urich",2,14101.68893034,Comedy
+"Mary Crosby",2,14101.68893034,Comedy
+"Michael D. Roberts",2,14101.68893034,Comedy
+"Anjelica Huston",2,14101.68893034,Comedy
+"John Wayne",2,13543.246284,Comedy
+"Lee Marvin",2,13543.246284,Comedy
+"Elizabeth Allen",2,13543.246284,Comedy
+"Jack Warden",2,13543.246284,Comedy
+"Basil Harris",2,12706.976777508,Comedy
+"Mary Lynn Rajskub",2,12706.976777508,Comedy
+"Aubrey Plaza",2,12706.976777508,Comedy
+"Lauren Carlos",2,12706.976777508,Comedy
+"Nick Searcy",2,10670.46215559,Comedy
+"Bernie Mac",2,10670.46215559,Comedy
+"Jane Adams",2,9503.293149318,Comedy
+"Jon Lovitz",2,9503.293149318,Comedy
+"Philip Seymour Hoffman",2,9503.293149318,Comedy
+"Hannah Spearritt",2,9353.224015098,Comedy
+"Cynthia Stevenson",2,9353.224015098,Comedy
+"Frankie Muniz",2,9353.224015098,Comedy
+"Paul Soter",2,9201.781179096,Comedy
+"Erik Stolhanske",2,9201.781179096,Comedy
+"Cloris Leachman",2,9201.781179096,Comedy
+"M.C. Gainey",2,9201.781179096,Comedy
+"Ginger Rogers",2,8972.314158,Comedy
+"Edward Everett Horton",2,8972.314158,Comedy
+"Erik Rhodes",2,8972.314158,Comedy
+"Fred Astaire",2,8972.314158,Comedy
+"Tim Robbins",6,8295.954348094001,Comedy
+"Richard E. Grant",2,6063.620011722,Comedy
+"Dolly Wells",2,6063.620011722,Comedy
+"Ben Falcone",2,6063.620011722,Comedy
+"Jason Robards",2,4439.631149124,Comedy
+"Stella Stevens",2,4439.631149124,Comedy
+"David Warner",2,4439.631149124,Comedy
+"Strother Martin",2,4439.631149124,Comedy
+"Joe Pesci",2,3470.185234104,Comedy
+"Andy Comeau",2,3470.185234104,Comedy
+"Kristy Swanson",2,3470.185234104,Comedy
+"George Hamilton",2,3470.185234104,Comedy
+"Ben Affleck",2,2949.6526046999998,Comedy
+"Casey Affleck",2,2949.6526046999998,Comedy
+"Jennifer Albano",2,2949.6526046999998,Comedy
+"Jenni Blong",2,2949.6526046999998,Comedy
+"Kathryn Alexander",2,2506.147621062,Comedy
+"Teodorina Bello",2,2506.147621062,Comedy
+"Kate Blumberg",2,2506.147621062,Comedy
+"Jonah Bobo",2,2506.147621062,Comedy
+"Nick Offerman",2,1456.615238172,Comedy
+"Kiersey Clemons",2,1456.615238172,Comedy
+"Blythe Danner",2,1456.615238172,Comedy
+"Toni Collette",2,1456.615238172,Comedy
+"Jennifer Connelly",2,419.297382462,Comedy
+"Patrick Wilson",2,419.297382462,Comedy
+"Jackie Earle Haley",2,419.297382462,Comedy
+"Leslie Mann",2,-2144.27235717,Comedy
+"Eric Bana",2,-2144.27235717,Comedy
+"Miles Teller",2,-2532.590515314,Comedy
+"Jessica Szohr",2,-2532.590515314,Comedy
+"Kid Cudi",2,-2532.590515314,Comedy
+"Barbra Streisand",2,-2534.708161386,Comedy
+"Jeff Bridges",2,-2534.708161386,Comedy
+"Lauren Bacall",2,-2534.708161386,Comedy
+"George Segal",2,-2534.708161386,Comedy
+"Dan Aykroyd",2,-3610.417002666,Comedy
+"Phil Hartman",2,-3610.417002666,Comedy
+"Glenne Headly",2,-3610.417002666,Comedy
+"LL Cool J",2,-5732.706671118,Comedy
+"Timothy Hutton",2,-5732.706671118,Comedy
+"Greta Gerwig",2,-5798.270654406,Comedy
+"Carrie MacLemore",2,-5798.270654406,Comedy
+"Megalyn Echikunwoke",2,-5798.270654406,Comedy
+"Jeffrey Tambor",2,-7708.072532604,Comedy
+"James Marsden",2,-7708.072532604,Comedy
+"Kathryn Hahn",2,-7708.072532604,Comedy
+"Matt O'Leary",2,-8650.515,Comedy
+"Jessica Cook",2,-8650.515,Comedy
+"Lance Henriksen",2,-8650.515,Comedy
+"Clifton Collins Jr.",2,-8650.515,Comedy
+"Paul Perri",2,-9358.151348442,Comedy
+"Kiefer Sutherland",2,-9358.151348442,Comedy
+"Bokeem Woodbine",2,-9358.151348442,Comedy
+"Paul Rudd",2,-15444.017024538,Comedy
+"Adam Brody",2,-15444.017024538,Comedy
+"Jon Hamm",2,-15444.017024538,Comedy
+"Jim Carrey",2,-15890.52892719,Comedy
+"Gerry Becker",2,-15890.52892719,Comedy
+"Greyson Erik Pendry",2,-15890.52892719,Comedy
+"Brittany Colonna",2,-15890.52892719,Comedy
+"Johnny Depp",2,-16567.801967982,Comedy
+"Benicio Del Toro",2,-16567.801967982,Comedy
+"Tobey Maguire",2,-16567.801967982,Comedy
+"Michael Lee Gogin",2,-16567.801967982,Comedy
+"Analeigh Tipton",4,-16661.72715468,Comedy
+"Joe Viterelli",2,-17319.171860058,Comedy
+"Matthew Lillard",2,-17711.635344989998,Comedy
+"Sam Waterston",2,-17711.635344989998,Comedy
+"Ricki Lake",2,-17711.635344989998,Comedy
+"Nick Swardson",2,-25849.83224463,Comedy
+"Christina Ricci",2,-25849.83224463,Comedy
+"Don Johnson",2,-25849.83224463,Comedy
+"Stephen Dorff",2,-25849.83224463,Comedy
+"Robert Downey Jr.",2,-25865.915282118,Comedy
+"Robin Wright",2,-25865.915282118,Comedy
+"Jeremy Northam",2,-25865.915282118,Comedy
+"Danny DeVito",4,-27513.759835946,Comedy
+"Sean Fox",2,-28564.13893824,Comedy
+"J. Evan Bonifant",2,-28564.13893824,Comedy
+"Victor Wong",2,-28564.13893824,Comedy
+"Max Elliott Slade",2,-28564.13893824,Comedy
+"Christopher Walken",2,-29018.60239428,Comedy
+"Sissy Spacek",2,-29018.60239428,Comedy
+"Jessica Simpson",2,-29282.065939326,Comedy
+"Luke Wilson",2,-29282.065939326,Comedy
+"Rachael Leigh Cook",2,-29282.065939326,Comedy
+"Samuel L. Jackson",2,-30246.719469036,Comedy
+"Jessie T. Usher",2,-30246.719469036,Comedy
+"Richard Roundtree",2,-30246.719469036,Comedy
+"Bruce Greenwood",2,-32530.62497913,Comedy
+Madonna,2,-32530.62497913,Comedy
+"Elizabeth Banks",2,-32530.62497913,Comedy
+"Michael Beattie",2,-32530.62497913,Comedy
+"Neve Campbell",2,-32628.44500275,Comedy
+"Dylan McDermott",2,-32628.44500275,Comedy
+"Oliver Platt",2,-32628.44500275,Comedy
+"Tina Fey",2,-33388.403126118,Comedy
+"Margot Robbie",2,-33388.403126118,Comedy
+"Martin Freeman",2,-33388.403126118,Comedy
+"Andy Samberg",2,-36905.169653394,Comedy
+"Jorma Taccone",2,-36905.169653394,Comedy
+"Bill Hader",2,-36905.169653394,Comedy
+"James Cromwell",2,-37606.00323684,Comedy
+"Mary Stein",2,-37606.00323684,Comedy
+"Mickey Rooney",2,-37606.00323684,Comedy
+"Magda Szubanski",2,-37606.00323684,Comedy
+"John Krasinski",2,-37688.508388704,Comedy
+"Carmen Ejogo",2,-37688.508388704,Comedy
+"Lucy Liu",2,-41055.261145056,Comedy
+"Nicollette Sheridan",2,-41055.261145056,Comedy
+"Mark Dacascos",2,-41055.261145056,Comedy
+"Sarah Jessica Parker",2,-42149.489008848,Comedy
+"Eric Idle",2,-42149.489008848,Comedy
+"Matt Damon",2,-46840.908967974,Comedy
+"Christoph Waltz",2,-46840.908967974,Comedy
+"Hong Chau",2,-46840.908967974,Comedy
+"Rachel McAdams",2,-47519.123184798,Comedy
+"Michael Peña",2,-47519.123184798,Comedy
+"Molly Hagan",2,-47519.123184798,Comedy
+"Conner Rayburn",2,-49806.021773082,Comedy
+"Nat Faxon",2,-49806.021773082,Comedy
+"John C. Reilly",2,-49806.021773082,Comedy
+"Tim Meadows",2,-49806.021773082,Comedy
