@@ -1,0 +1,501 @@
+actor,nummovies,Wavgrating,GenreName
+"Giancarlo Esposito",8,0.45155707875,Comedy
+"Adam Sandler",8,0.39446365499999997,Comedy
+"Tim Robbins",6,0.3460207333333334,Comedy
+"Regina Hall",6,0.33391000766666673,Comedy
+"Diane Keaton",6,0.33217990399999997,Comedy
+"Queen Latifah",6,0.32871969666666667,Comedy
+"Don Cheadle",6,0.3235293856666667,Comedy
+"Gabrielle Union",6,0.32006917833333337,Comedy
+"Ben Stiller",6,0.32006917833333337,Comedy
+"Mel Gibson",6,0.31833907466666667,Comedy
+"Robert De Niro",6,0.3166089710000001,Comedy
+"Emma Roberts",6,0.30276814166666666,Comedy
+"Jack Black",6,0.2975778306666667,Comedy
+"Brendan Fraser",6,0.27335637933333334,Comedy
+"Kate Winslet",4,0.245674697,Comedy
+"Woody Allen",4,0.235294076,Comedy
+"Viggo Mortensen",4,0.23183386900000005,Comedy
+"Catherine O'Hara",4,0.2301037655,Comedy
+"Maya Rudolph",4,0.2301037655,Comedy
+"Charles Durning",4,0.22837366199999998,Comedy
+"Spike Lee",4,0.22837366199999998,Comedy
+"Mike Myers",4,0.22664355849999998,Comedy
+"Dylan Baker",4,0.22491345499999998,Comedy
+"Martin Lawrence",4,0.2231833515,Comedy
+"Sandra Bullock",4,0.21799304100000003,Comedy
+"Kevin Hart",4,0.217993041,Comedy
+"Bruce Willis",4,0.217993041,Comedy
+"Lennie Loftin",4,0.2162629375,Comedy
+"Christine Taylor",4,0.214532834,Comedy
+"Burt Reynolds",4,0.214532834,Comedy
+"Robert Capron",4,0.21453283399999998,Comedy
+"Rachael Harris",4,0.21453283399999998,Comedy
+"Zachary Gordon",4,0.21453283399999998,Comedy
+"Katherine Heigl",4,0.21107262699999998,Comedy
+"Kimberly Elise",4,0.20934252350000002,Comedy
+"Billy Crystal",4,0.20934252350000002,Comedy
+"Lisa Kudrow",4,0.20934252350000002,Comedy
+"Melissa McCarthy",4,0.2093425235,Comedy
+"Alicia Silverstone",4,0.2093425235,Comedy
+"Chevy Chase",4,0.20761242,Comedy
+"Analeigh Tipton",4,0.20761242,Comedy
+"Matthew Perry",4,0.20761242,Comedy
+"Reese Witherspoon",4,0.2058823165,Comedy
+"Chris Rock",4,0.2058823165,Comedy
+"Danny DeVito",4,0.2058823165,Comedy
+"Seth Rogen",4,0.2058823165,Comedy
+"Tom Everett Scott",4,0.2024221095,Comedy
+"Kristen Wiig",4,0.200692006,Comedy
+"America Ferrera",4,0.200692006,Comedy
+"Anthony Anderson",4,0.20069200599999998,Comedy
+"Danny McBride",4,0.20069200599999998,Comedy
+"James Franco",4,0.19896190249999998,Comedy
+"Terry Crews",4,0.19896190249999998,Comedy
+"Jennifer Love Hewitt",4,0.19723179899999999,Comedy
+"Steve Martin",4,0.1955016955,Comedy
+"Vince Vaughn",4,0.1955016955,Comedy
+"Bob Hoskins",4,0.18858128149999998,Comedy
+"Regina King",4,0.186851178,Comedy
+"Winona Ryder",4,0.18512107449999998,Comedy
+"Mike Epps",4,0.179930764,Comedy
+"Penelope Ann Miller",4,0.1782006605,Comedy
+"Kathleen Turner",4,0.17820066049999997,Comedy
+"Alfred Molina",4,0.17128024649999998,Comedy
+"Cedric the Entertainer",4,0.159169522,Comedy
+"Mahershala Ali",2,0.143598549,Comedy
+"Linda Cardellini",2,0.143598549,Comedy
+"Sebastian Maniscalco",2,0.143598549,Comedy
+"Edward Everett Horton",2,0.133217931,Comedy
+"Erik Rhodes",2,0.133217931,Comedy
+"Fred Astaire",2,0.133217931,Comedy
+"Ginger Rogers",2,0.133217931,Comedy
+"Isabela Moner",2,0.131487828,Comedy
+"Olivia Colman",2,0.131487828,Comedy
+"Gustavo Escobar",2,0.131487828,Comedy
+"Rachel Weisz",2,0.131487828,Comedy
+"Emma Delves",2,0.131487828,Comedy
+"Faye Daveney",2,0.131487828,Comedy
+"Mark Wahlberg",2,0.131487828,Comedy
+"Rose Byrne",2,0.131487828,Comedy
+"Jane Adams",2,0.129757725,Comedy
+"Jon Lovitz",2,0.129757725,Comedy
+"Philip Seymour Hoffman",2,0.129757725,Comedy
+"Kiersey Clemons",2,0.128027622,Comedy
+"Blythe Danner",2,0.128027622,Comedy
+"Toni Collette",2,0.128027622,Comedy
+"Nick Offerman",2,0.128027622,Comedy
+"Cleavon Little",2,0.126297519,Comedy
+"Gene Wilder",2,0.126297519,Comedy
+"Slim Pickens",2,0.126297519,Comedy
+"Harvey Korman",2,0.126297519,Comedy
+"Jennifer Jason Leigh",2,0.124567416,Comedy
+"Miranda July",2,0.124567416,Comedy
+"Paul Newman",2,0.124567416,Comedy
+"Miles Thompson",2,0.124567416,Comedy
+"Jim Carrey",2,0.124567416,Comedy
+"Jennifer Connelly",2,0.124567416,Comedy
+"Brandon Ratcliff",2,0.124567416,Comedy
+"Gerry Becker",2,0.124567416,Comedy
+"Johnny Depp",2,0.124567416,Comedy
+"Patrick Wilson",2,0.124567416,Comedy
+"Greyson Erik Pendry",2,0.124567416,Comedy
+"Benicio Del Toro",2,0.124567416,Comedy
+"Jackie Earle Haley",2,0.124567416,Comedy
+"Brittany Colonna",2,0.124567416,Comedy
+"Tobey Maguire",2,0.124567416,Comedy
+"John Hawkes",2,0.124567416,Comedy
+"Michael Lee Gogin",2,0.124567416,Comedy
+"Sean Hayes",2,0.122837313,Comedy
+"Beverly Todd",2,0.122837313,Comedy
+"Jason Robards",2,0.122837313,Comedy
+"Michael Caine",2,0.122837313,Comedy
+"Stella Stevens",2,0.122837313,Comedy
+"John Beck",2,0.122837313,Comedy
+"Robert Duvall",2,0.122837313,Comedy
+"Jack Nicholson",2,0.122837313,Comedy
+"David Warner",2,0.122837313,Comedy
+"Mary Gregory",2,0.122837313,Comedy
+"Haley Joel Osment",2,0.122837313,Comedy
+"Morgan Freeman",2,0.122837313,Comedy
+"Strother Martin",2,0.122837313,Comedy
+"Kyra Sedgwick",2,0.122837313,Comedy
+"Jude Law",2,0.12110720999999999,Comedy
+"Michael Cera",2,0.12110720999999999,Comedy
+"Jennifer Garner",2,0.12110720999999999,Comedy
+"Jason Bateman",2,0.12110720999999999,Comedy
+"Cameron Diaz",2,0.12110720999999999,Comedy
+"Ellen Page",2,0.12110720999999999,Comedy
+"Barret Hackney",2,0.119377107,Comedy
+"Ben Falcone",2,0.119377107,Comedy
+"Mary Lynn Rajskub",2,0.119377107,Comedy
+"Amanda Seyfried",2,0.119377107,Comedy
+"Jared Pfennigwerth",2,0.119377107,Comedy
+"Marcia DeBonis",2,0.119377107,Comedy
+"Kitao Sakurai",2,0.119377107,Comedy
+"Gael García Bernal",2,0.119377107,Comedy
+"Giordano Formenti",2,0.119377107,Comedy
+"Aubrey Plaza",2,0.119377107,Comedy
+"Richard E. Grant",2,0.119377107,Comedy
+"Lauren Carlos",2,0.119377107,Comedy
+"Bud Cort",2,0.119377107,Comedy
+"Dolly Wells",2,0.119377107,Comedy
+"Basil Harris",2,0.119377107,Comedy
+"Rick Moranis",2,0.117647004,Comedy
+"Jeff Bridges",2,0.117647004,Comedy
+"Tiffany Haddish",2,0.117647004,Comedy
+"Ellen Greene",2,0.117647004,Comedy
+"Lauren Bacall",2,0.117647004,Comedy
+"Greg Andrews",2,0.117647004,Comedy
+"Vincent Gardenia",2,0.117647004,Comedy
+"Dustin Hoffman",2,0.117647004,Comedy
+"George Segal",2,0.117647004,Comedy
+Monica,2,0.117647004,Comedy
+"Robin Williams",2,0.117647004,Comedy
+"Brandon Bernard Benton",2,0.117647004,Comedy
+"Julia Roberts",2,0.117647004,Comedy
+"Adam Boyer",2,0.117647004,Comedy
+"John Krasinski",2,0.117647004,Comedy
+"Levi Stubbs",2,0.117647004,Comedy
+"Carmen Ejogo",2,0.117647004,Comedy
+"Barbra Streisand",2,0.117647004,Comedy
+"Jada Pinkett Smith",2,0.117647004,Comedy
+"Christopher Nicholas Smith",2,0.115916901,Comedy
+"Renée Zellweger",2,0.115916901,Comedy
+"Rodney Dangerfield",2,0.115916901,Comedy
+"Gemma Jones",2,0.115916901,Comedy
+"Ted Knight",2,0.115916901,Comedy
+"Julia Louis-Dreyfus",2,0.115916901,Comedy
+"Tracy Camilla Johns",2,0.115916901,Comedy
+"Celia Imrie",2,0.115916901,Comedy
+"Michael O'Keefe",2,0.115916901,Comedy
+"Tommy Redmond Hicks",2,0.115916901,Comedy
+"James Faulkner",2,0.115916901,Comedy
+"Jessica St. Clair",2,0.115916901,Comedy
+"John Canada Terrell",2,0.115916901,Comedy
+"Lynn Ferguson",2,0.11418679799999999,Comedy
+"Dana Carvey",2,0.11418679799999999,Comedy
+"Tony Haygarth",2,0.11418679799999999,Comedy
+"Rob Lowe",2,0.11418679799999999,Comedy
+"Halle Berry",2,0.11418679799999999,Comedy
+"Sam Waterston",2,0.11418679799999999,Comedy
+"Tia Carrere",2,0.11418679799999999,Comedy
+"LL Cool J",2,0.11418679799999999,Comedy
+"Ed Helms",2,0.11418679799999999,Comedy
+"Ricki Lake",2,0.11418679799999999,Comedy
+"Timothy Hutton",2,0.11418679799999999,Comedy
+"Matthew Lillard",2,0.11418679799999999,Comedy
+"Phil Daniels",2,0.11418679799999999,Comedy
+"Mitchel Musso",2,0.112456695,Comedy
+"Carolyn Saxon",2,0.112456695,Comedy
+"Eric Winter",2,0.112456695,Comedy
+"John C. McGinley",2,0.112456695,Comedy
+"Stockard Channing",2,0.112456695,Comedy
+"Tracey Ullman",2,0.112456695,Comedy
+"Nat Faxon",2,0.112456695,Comedy
+"Dianne Wiest",2,0.112456695,Comedy
+"Laurence Fishburne",2,0.112456695,Comedy
+"Michael Rapaport",2,0.112456695,Comedy
+"Denzel Washington",2,0.112456695,Comedy
+"Vivica A. Fox",2,0.112456695,Comedy
+"Elizabeth Hurley",2,0.112456695,Comedy
+"John C. Reilly",2,0.112456695,Comedy
+"Tisha Campbell-Martin",2,0.112456695,Comedy
+"Morris Chestnut",2,0.112456695,Comedy
+"Michael York",2,0.112456695,Comedy
+"Tim Meadows",2,0.112456695,Comedy
+"Miles Teller",2,0.112456695,Comedy
+"Samuel L. Jackson",2,0.112456695,Comedy
+Kyme,2,0.112456695,Comedy
+"Steve Harris",2,0.112456695,Comedy
+"Kiefer Sutherland",2,0.112456695,Comedy
+"Wesley Snipes",2,0.112456695,Comedy
+"Ryan Whitney Newman",2,0.112456695,Comedy
+"Mimi Rogers",2,0.112456695,Comedy
+"Conner Rayburn",2,0.112456695,Comedy
+"Jessica Szohr",2,0.112456695,Comedy
+"Gerard Butler",2,0.112456695,Comedy
+"Jessie T. Usher",2,0.112456695,Comedy
+"Tyler Perry",2,0.112456695,Comedy
+"Bokeem Woodbine",2,0.112456695,Comedy
+"Steve Buscemi",2,0.112456695,Comedy
+"Kid Cudi",2,0.112456695,Comedy
+"Bree Turner",2,0.112456695,Comedy
+"Richard Roundtree",2,0.112456695,Comedy
+"Shemar Moore",2,0.112456695,Comedy
+"Tom Yi",2,0.112456695,Comedy
+"Paul Perri",2,0.112456695,Comedy
+"Nicole Kidman",2,0.112456695,Comedy
+"Lee Marvin",2,0.110726592,Comedy
+"Morgan Lily",2,0.110726592,Comedy
+"Christopher Walken",2,0.110726592,Comedy
+"Michael Clarke Duncan",2,0.110726592,Comedy
+"Jim Cummings",2,0.110726592,Comedy
+"Elizabeth Allen",2,0.110726592,Comedy
+"Trenton Rogers",2,0.110726592,Comedy
+"Devon Bostick",2,0.110726592,Comedy
+"Sissy Spacek",2,0.110726592,Comedy
+"Nikita Hopkins",2,0.110726592,Comedy
+"Jack Warden",2,0.110726592,Comedy
+"Greg Kinnear",2,0.110726592,Comedy
+"Michelle Carmichael",2,0.110726592,Comedy
+"Ken Sansom",2,0.110726592,Comedy
+"Chazz Palminteri",2,0.110726592,Comedy
+"Jordan Carlos",2,0.110726592,Comedy
+"Jasmine Woods",2,0.110726592,Comedy
+"John Fiedler",2,0.110726592,Comedy
+"Dequina Moore",2,0.110726592,Comedy
+Nelly,2,0.110726592,Comedy
+"Joseph Badalucco Jr.",2,0.110726592,Comedy
+"Will Smith",2,0.110726592,Comedy
+"John Wayne",2,0.110726592,Comedy
+"Rosanna Arquette",2,0.110726592,Comedy
+"Jordi Mollà",2,0.110726592,Comedy
+"John Meillon",2,0.108996489,Comedy
+"David Gulpilil",2,0.108996489,Comedy
+"Selena Gomez",2,0.108996489,Comedy
+"Andy Samberg",2,0.108996489,Comedy
+"Helen Hunt",2,0.108996489,Comedy
+"Rachel McAdams",2,0.108996489,Comedy
+"Katie Cassidy",2,0.108996489,Comedy
+"Jorma Taccone",2,0.108996489,Comedy
+"Marisa Tomei",2,0.108996489,Comedy
+"Michael Peña",2,0.108996489,Comedy
+"Leighton Meester",2,0.108996489,Comedy
+"Bill Hader",2,0.108996489,Comedy
+"Alan Alda",2,0.108996489,Comedy
+"Paul Hogan",2,0.108996489,Comedy
+"Molly Hagan",2,0.108996489,Comedy
+"Cory Monteith",2,0.108996489,Comedy
+"Linda Kozlowski",2,0.108996489,Comedy
+"Emily Mortimer",2,0.107266386,Comedy
+"Pierce Brosnan",2,0.107266386,Comedy
+"John D'Leo",2,0.107266386,Comedy
+"Margot Robbie",2,0.107266386,Comedy
+"Spencer Vrooman",2,0.107266386,Comedy
+"Lily Tomlin",2,0.107266386,Comedy
+"Salma Hayek",2,0.107266386,Comedy
+"Martin Freeman",2,0.107266386,Comedy
+"Amber Tamblyn",2,0.107266386,Comedy
+"Malachi Pearson",2,0.107266386,Comedy
+"Woody Harrelson",2,0.107266386,Comedy
+"Kathryn Alexander",2,0.107266386,Comedy
+"Jonah Hill",2,0.107266386,Comedy
+"Rip Torn",2,0.107266386,Comedy
+"Alexis Bledel",2,0.107266386,Comedy
+"Cathy Moriarty",2,0.107266386,Comedy
+"Jessica Rothe",2,0.107266386,Comedy
+"Teodorina Bello",2,0.107266386,Comedy
+"Israel Broussard",2,0.107266386,Comedy
+"Owen Wilson",2,0.107266386,Comedy
+"Kate Blumberg",2,0.107266386,Comedy
+"Jay Baruchel",2,0.107266386,Comedy
+"Blake Lively",2,0.107266386,Comedy
+"Michelle Pfeiffer",2,0.107266386,Comedy
+"Phi Vu",2,0.107266386,Comedy
+"Will Ferrell",2,0.107266386,Comedy
+"Spencer Breslin",2,0.107266386,Comedy
+"Jonah Bobo",2,0.107266386,Comedy
+"Dianna Agron",2,0.107266386,Comedy
+"Tina Fey",2,0.107266386,Comedy
+"Suraj Sharma",2,0.107266386,Comedy
+"Chauncey Leopardi",2,0.107266386,Comedy
+"Don 'D.C.' Curry",2,0.105536283,Comedy
+"Chris Pratt",2,0.105536283,Comedy
+"Harry Connick Jr.",2,0.105536283,Comedy
+"Jane Fonda",2,0.105536283,Comedy
+"Drew Barrymore",2,0.105536283,Comedy
+"Gena Rowlands",2,0.105536283,Comedy
+"Candice Bergen",2,0.105536283,Comedy
+"Eileen Essell",2,0.105536283,Comedy
+"Mae Whitman",2,0.105536283,Comedy
+"Mary Steenburgen",2,0.105536283,Comedy
+"Ice Cube",2,0.105536283,Comedy
+"Kate Hudson",2,0.105536283,Comedy
+"Gregory Hines",2,0.105536283,Comedy
+"Harvey Fierstein",2,0.105536283,Comedy
+"Anne Hathaway",2,0.105536283,Comedy
+"James Remar",2,0.105536283,Comedy
+"John Witherspoon",2,0.105536283,Comedy
+"Bryan Greenberg",2,0.105536283,Comedy
+"Ed Begley Jr.",2,0.105536283,Comedy
+"Eric Christian Olsen",2,0.10380618,Comedy
+"Hallie Todd",2,0.10380618,Comedy
+"Michael Ealy",2,0.10380618,Comedy
+"Gabriel Macht",2,0.10380618,Comedy
+"Robert Carradine",2,0.10380618,Comedy
+"Joy Bryant",2,0.10380618,Comedy
+"Steve Zahn",2,0.10380618,Comedy
+"Dolly Parton",2,0.10380618,Comedy
+"Jennifer Lopez",2,0.10380618,Comedy
+"Dom DeLuise",2,0.10380618,Comedy
+"Alex O'Loughlin",2,0.10380618,Comedy
+"Hilary Duff",2,0.10380618,Comedy
+"Michaela Watkins",2,0.10380618,Comedy
+"Adam Lamberg",2,0.10380618,Comedy
+"Mandy Moore",2,0.10380618,Comedy
+"Chris Evans",2,0.102076077,Comedy
+"Kristen Ledlow",2,0.102076077,Comedy
+"Casey Affleck",2,0.102076077,Comedy
+"Jake McDorman",2,0.102076077,Comedy
+"George Clooney",2,0.102076077,Comedy
+"Sigourney Weaver",2,0.102076077,Comedy
+"Johnny Simmons",2,0.102076077,Comedy
+"Pamela Reed",2,0.102076077,Comedy
+"Sarah Michelle Gellar",2,0.102076077,Comedy
+"Josh Brener",2,0.102076077,Comedy
+"Jennifer Albano",2,0.102076077,Comedy
+"Alden Ehrenreich",2,0.102076077,Comedy
+"Linda Hunt",2,0.102076077,Comedy
+Mako,2,0.102076077,Comedy
+"Kellan Lutz",2,0.102076077,Comedy
+"Jenni Blong",2,0.102076077,Comedy
+"Ralph Fiennes",2,0.102076077,Comedy
+"Ray Liotta",2,0.102076077,Comedy
+"Kevin Smith",2,0.102076077,Comedy
+"Jason Lee",2,0.102076077,Comedy
+JoJo,2,0.102076077,Comedy
+"Jake T. Austin",2,0.102076077,Comedy
+"Taraji P. Henson",2,0.102076077,Comedy
+"Ben Affleck",2,0.102076077,Comedy
+"Sara Paxton",2,0.102076077,Comedy
+"Josh Brolin",2,0.102076077,Comedy
+"Arnold Schwarzenegger",2,0.102076077,Comedy
+"Katie Holmes",2,0.100345974,Comedy
+"Robert Urich",2,0.100345974,Comedy
+"M.C. Gainey",2,0.100345974,Comedy
+"Marc Blucas",2,0.100345974,Comedy
+"Mary Crosby",2,0.100345974,Comedy
+"Paul Soter",2,0.100345974,Comedy
+"Robert Ben Garant",2,0.100345974,Comedy
+Amerie,2,0.100345974,Comedy
+"Michael D. Roberts",2,0.100345974,Comedy
+"Erik Stolhanske",2,0.100345974,Comedy
+"Niecy Nash",2,0.100345974,Comedy
+"Michael Keaton",2,0.100345974,Comedy
+"Anjelica Huston",2,0.100345974,Comedy
+"Cloris Leachman",2,0.100345974,Comedy
+"Dan Aykroyd",2,0.098615871,Comedy
+"Leslie Mann",2,0.098615871,Comedy
+"Joe Viterelli",2,0.098615871,Comedy
+"Allen Covert",2,0.098615871,Comedy
+"Rich Cooper",2,0.098615871,Comedy
+"Will Arnett",2,0.098615871,Comedy
+"Petr Ratimec",2,0.098615871,Comedy
+"Phil Hartman",2,0.098615871,Comedy
+"Eric Bana",2,0.098615871,Comedy
+"Max Thieriot",2,0.098615871,Comedy
+"Barbora Lukesová",2,0.098615871,Comedy
+"Glenne Headly",2,0.098615871,Comedy
+"Liam Neeson",2,0.098615871,Comedy
+"Anna Rust",2,0.098615871,Comedy
+"Jason Drucker",2,0.098615871,Comedy
+"Jeremy Robson",2,0.098615871,Comedy
+"Charlie Wright",2,0.098615871,Comedy
+"John Turturro",2,0.098615871,Comedy
+"Craig Gellis",2,0.098615871,Comedy
+"Antony Acker",2,0.096885768,Comedy
+Mo'Nique,2,0.096885768,Comedy
+"Eugene Levy",2,0.096885768,Comedy
+"Mark Barrett",2,0.096885768,Comedy
+"Ana de la Reguera",2,0.096885768,Comedy
+"Michael J. Fox",2,0.096885768,Comedy
+"Joan Plowright",2,0.096885768,Comedy
+"Richard Bellos",2,0.096885768,Comedy
+"Héctor Jiménez",2,0.096885768,Comedy
+"Neve Campbell",2,0.096885768,Comedy
+"Geena Davis",2,0.096885768,Comedy
+"Suzanne Bianqui",2,0.096885768,Comedy
+"Darius Rose",2,0.096885768,Comedy
+"Dylan McDermott",2,0.096885768,Comedy
+"Hugh Laurie",2,0.096885768,Comedy
+"Oliver Platt",2,0.096885768,Comedy
+"Jonathan Lipnicki",2,0.096885768,Comedy
+"Danny Glover",2,0.096885768,Comedy
+"Jackie Chan",2,0.095155665,Comedy
+"Jeremy Northam",2,0.095155665,Comedy
+"Greta Gerwig",2,0.095155665,Comedy
+"Jason Isaacs",2,0.095155665,Comedy
+"Carrie MacLemore",2,0.095155665,Comedy
+"Debi Mazar",2,0.095155665,Comedy
+"Megalyn Echikunwoke",2,0.095155665,Comedy
+"Bernie Mac",2,0.095155665,Comedy
+"Nick Searcy",2,0.095155665,Comedy
+"Robert Downey Jr.",2,0.095155665,Comedy
+"Robin Wright",2,0.095155665,Comedy
+"Mary Stein",2,0.093425562,Comedy
+"Carter Jenkins",2,0.093425562,Comedy
+"Mickey Rooney",2,0.093425562,Comedy
+"Forest Whitaker",2,0.093425562,Comedy
+"Sally Field",2,0.093425562,Comedy
+"Austin Butler",2,0.093425562,Comedy
+"Carlos Mencia",2,0.093425562,Comedy
+"Ashley Tisdale",2,0.093425562,Comedy
+"Jennifer Coolidge",2,0.093425562,Comedy
+"Ashley Boettcher",2,0.093425562,Comedy
+"Magda Szubanski",2,0.093425562,Comedy
+"James Cromwell",2,0.093425562,Comedy
+"Patti D'Arbanville",2,0.09169545899999999,Comedy
+"Rasmus Hardiker",2,0.09169545899999999,Comedy
+"Dabney Coleman",2,0.09169545899999999,Comedy
+"Natalie Portman",2,0.09169545899999999,Comedy
+"Mary Kay Place",2,0.09169545899999999,Comedy
+"Miriam Margolyes",2,0.089965356,Comedy
+"Susan Sarandon",2,0.089965356,Comedy
+"Kathy Bates",2,0.089965356,Comedy
+"Allison Janney",2,0.089965356,Comedy
+"David Spade",2,0.089965356,Comedy
+"Jeff Goldblum",2,0.089965356,Comedy
+"Mary McCormack",2,0.089965356,Comedy
+"Elizabeth Perkins",2,0.089965356,Comedy
+"Craig Bierko",2,0.089965356,Comedy
+"Alexander Pollock",2,0.089965356,Comedy
+"Scott Terra",2,0.089965356,Comedy
+"Kristy Swanson",2,0.088235253,Comedy
+"Julianne Moore",2,0.088235253,Comedy
+"Art Bonilla",2,0.088235253,Comedy
+"Jessica Cook",2,0.088235253,Comedy
+"George Hamilton",2,0.088235253,Comedy
+"Bart McCarthy",2,0.088235253,Comedy
+"Lance Henriksen",2,0.088235253,Comedy
+"Frankie Muniz",2,0.088235253,Comedy
+"Clifton Collins Jr.",2,0.088235253,Comedy
+"Matt Damon",2,0.088235253,Comedy
+"Hannah Spearritt",2,0.088235253,Comedy
+"Joe Pesci",2,0.088235253,Comedy
+"Nick Cannon",2,0.088235253,Comedy
+"Christoph Waltz",2,0.088235253,Comedy
+"Cynthia Stevenson",2,0.088235253,Comedy
+"Andy Comeau",2,0.088235253,Comedy
+"Anne Heche",2,0.088235253,Comedy
+"Adrian Young",2,0.088235253,Comedy
+"Matt O'Leary",2,0.088235253,Comedy
+"Hong Chau",2,0.088235253,Comedy
+"Paul Rudd",2,0.08650515,Comedy
+"J. Evan Bonifant",2,0.08650515,Comedy
+"Mark Webber",2,0.08650515,Comedy
+"Adam Brody",2,0.08650515,Comedy
+"Freddie Prinze Jr.",2,0.08650515,Comedy
+"Jean Smart",2,0.08650515,Comedy
+"Jon Hamm",2,0.08650515,Comedy
+"Julia Stiles",2,0.08650515,Comedy
+"Jorge Garcia",2,0.08650515,Comedy
+"Schuyler Fisk",2,0.08650515,Comedy
+"Selma Blair",2,0.08650515,Comedy
+"Taylor Lautner",2,0.08650515,Comedy
+"Victor Wong",2,0.08650515,Comedy
+"Shawn Hatosy",2,0.08650515,Comedy
+"Max Elliott Slade",2,0.08650515,Comedy
+"Sean Fox",2,0.08650515,Comedy
+"Chris Elliott",2,0.08650515,Comedy
+"Mark Dacascos",2,0.079584738,Comedy
+"Elizabeth Banks",2,0.079584738,Comedy
+Solange,2,0.079584738,Comedy
+"Kathryn Hahn",2,0.079584738,Comedy
+"Michael Beattie",2,0.079584738,Comedy
+"Shad Moss",2,0.079584738,Comedy
+"Jeffrey Tambor",2,0.079584738,Comedy
+"Lucy Liu",2,0.079584738,Comedy
+"Bruce Greenwood",2,0.079584738,Comedy
+"Nicollette Sheridan",2,0.079584738,Comedy
+Madonna,2,0.079584738,Comedy
