@@ -41,9 +41,9 @@ Due to the above, we chose to look only at Directors and Actors that worked in C
 
 ![graph_4](directorvsratings.png)
 
-![graph_5](actorsvsprofit.png)
+![graph_5](actorvsprofit.png)
 
-![graph_6](actorsvsrating.png)
+![graph_6](actorvsrating.png)
 
 
 ## Conclusions:
